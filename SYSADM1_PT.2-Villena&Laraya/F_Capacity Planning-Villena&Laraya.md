@@ -1,5 +1,5 @@
 
-		![SYSADM PT Header](https://github.com/user-attachments/assets/7a268670-5951-4417-b890-e85918c2e16b)
+![SYSADM PT Header](https://github.com/user-attachments/assets/7a268670-5951-4417-b890-e85918c2e16b)
 
 # **SYSADM1 – Capacity Management & Planning**
 
@@ -45,7 +45,7 @@ Additionally, the inclusion of a VPN ensures secure remote access, while cloud s
 
 ![Network Topology SS](https://github.com/user-attachments/assets/91fec830-ecd4-4ccf-91b3-2728ed5fe655)
 
-			*Figure 1\. Proposed Network Topology Design*
+*Figure 1\. Proposed Network Topology Design*
 
 **1\. Network Enhancements:**
 
