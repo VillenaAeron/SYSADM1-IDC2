@@ -7,7 +7,8 @@ This document outlines the design and implementation of a robust and scalable ne
 The following are made by student of SYSADM1 - IDC2
 - Villena, Aeron Jeff A.
 - Laraya, Althea Joy Y.
-Instructor: Mrs. Katherine Reyes
+  
+### Instructor: Mrs. Katherine Reyes
 ---  
 
 ## Key Features  
