@@ -6,12 +6,12 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
 1. What is Git, and why is it important in software development?
 
-- Git is a free, open-source version control system that helps software developers collaborate by tracking changes in code during development. It allows multiple developers to work on the same project simultaneously without conflicts, manage versions easily, and revert to earlier versions when needed. This makes Git essential for maintaining a project's integrity and history, especially in large-scale development where frequent changes are common.
+   Git is a free, open-source version control system that helps software developers collaborate by tracking changes in code during development. It allows multiple developers to work on the same project simultaneously without conflicts, manage versions easily, and revert to earlier versions when needed. This makes Git essential for maintaining a project's integrity and history, especially in large-scale development where frequent changes are common.
 
 
 2. How does Git track changes in a project?
 
-- Git tracks changes by creating snapshots of the project whenever a change is committed. Each snapshot captures the current state of the files along with metadata like the author and timestamp. These snapshots are connected through unique identifiers called commit hashes, enabling developers to easily revert to any previous state when needed.
+   Git tracks changes by creating snapshots of the project whenever a change is committed. Each snapshot captures the current state of the files along with metadata like the author and timestamp. These snapshots are connected through unique identifiers called commit hashes, enabling developers to easily revert to any previous state when needed.
 
 
 3. What is the difference between a local repository and a remote repository in Git?
@@ -57,7 +57,7 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
 7. What are GitLab Desktop and GitHub, and how are they different from Git?
 
-- GitLab Desktop and GitHub are platforms that provide hosting for Git repositories along with additional features like issue tracking, project management tools, and collaborative workflows. They enhance the capabilities of Git by offering user-friendly interfaces for managing repositories online. While Git is the underlying version control system that tracks changes locally and remotely, these platforms provide tools for collaboration and project management on top of that functionality
+   GitLab Desktop and GitHub are platforms that provide hosting for Git repositories along with additional features like issue tracking, project management tools, and collaborative workflows. They enhance the capabilities of Git by offering user-friendly interfaces for managing repositories online. While Git is the underlying version control system that tracks changes locally and remotely, these platforms provide tools for collaboration and project management on top of that functionality
 
 
 8. How do you connect a local Git repository to a GitLab or GitHub repository?
@@ -102,9 +102,9 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
 12. What are some best practices for writing commit messages?
 
-- When writing commit messages, it is essential to follow best practices to ensure clarity and consistency in project history. One key guideline is to use the imperative mood, such as "Fix bug" instead of "Fixed bug," conveying actions clearly and directly. Commit messages should be concise yet descriptive, ideally limited to around 50 characters for the summary line, allowing for a quick understanding of the change's purpose. If additional context is necessary, it can be provided in the body of the message, with lines wrapped at 72 characters for readability. Furthermore, referencing relevant issues or tickets enhances traceability and helps team members understand the rationale behind changes. Adhering to these practices not only maintains clarity in the project's history but also facilitates easier comprehension of changes over time, ultimately improving collaboration among developers.
+   When writing commit messages, it is essential to follow best practices to ensure clarity and consistency in project history. One key guideline is to use the imperative mood, such as "Fix bug" instead of "Fixed bug," conveying actions clearly and directly. Commit messages should be concise yet descriptive, ideally limited to around 50 characters for the summary line, allowing for a quick understanding of the change's purpose. If additional context is necessary, it can be provided in the body of the message, with lines wrapped at 72 characters for readability. Furthermore, referencing relevant issues or tickets enhances traceability and helps team members understand the rationale behind changes. Adhering to these practices not only maintains clarity in the project's history but also facilitates easier comprehension of changes over time, ultimately improving collaboration among developers.
 
-References:
+**References:**
 
 Forage. (2024). What Is Git? Definition and How to Use It. [https://www.theforage.com/blog/skills/what-is-git](https://www.theforage.com/blog/skills/what-is-git)
 
