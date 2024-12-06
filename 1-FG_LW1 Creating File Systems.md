@@ -1,18 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 65073dd2612942d69aff6342b65409d8 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Villena, Aeron Jeff A.     | DATE PERFORMED:        | 45/50    |
-|                                  | 08/22/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 08/22/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/b6536cab-622a-41d8-811a-f09801868300)
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
@@ -83,9 +69,6 @@
 
     1.  clip.mp4
 
-```{=html}
-<!-- -->
-```
 12. **Check file properties:** Right-click on the \"info.txt\" file and
     select \"Properties.\" Explore the General, Details, and Security
     tabs to understand file attributes like creation date, size, and
@@ -110,17 +93,7 @@ Part B. Create a log report structure
 
 **System Admin Log Report**
 
-  -----------------------------------------------------------------------
-  **Report Title:** "First System Log -- File-Based Report"
-  -----------------------------------------------------------------------
-  **Date:** August 22, 2024
-
-  **Report Date Period:** 08/22/2 -- 08/22/24
-
-  **Report Time Period:** 8:00 AM \~ 11:00 AM
-
-  **Prepared By: Aeron Jeff A. Villena**
-  -----------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a6da3881-b68f-411f-84ac-dc3db1b163b4)
 
 **1. System Overview**
 
@@ -138,44 +111,12 @@ Part B. Create a log report structure
 
 **File Directory: Z:\\villena_a**
 
-  -----------------------------------------------------------------------
-  **File-Based System's Key Metrics** 
-  ----------------------------------- -----------------------------------
-  **Total Files**                     16 files, 10 folders
+![image](https://github.com/user-attachments/assets/7b1a3988-6ce3-4e93-a3aa-50ae9480a3c6)
 
-  **Total Storage Used**              8.61 MB (9,029,034 bytes)
+**File documentation:**
 
-  **Total Storage Capacity**          741 GB
-  -----------------------------------------------------------------------
-
-**File documentation:\
-**
-
-+-------------+-------------+------------------------------------------+
-| **          | **Directory | **Image Documentation**                  |
-| File/Folder | Add         |                                          |
-| Name**      | ress/Path** | **(w/ content)**                         |
-+=============+=============+==========================================+
-| L           | \"Z:\\Lab   | ![](vertopa                              |
-| ab1_Windows | 1_Windows\" | l_65073dd2612942d69aff6342b65409d8/media |
-|             |             | /image2.png){width="5.212000218722659in" |
-|             |             | height="1.5315266841644795in"}           |
-+-------------+-------------+------------------------------------------+
-| LabFiles    | \"Z:\       | ![](vertopa                              |
-|             | \LabFiles\" | l_65073dd2612942d69aff6342b65409d8/media |
-|             |             | /image3.png){width="4.212723097112861in" |
-|             |             | height="2.1533595800524936in"}           |
-+-------------+-------------+------------------------------------------+
-| New         | \"Z:\\NEW   | ![](vertopa                              |
-| L           | Lab         | l_65073dd2612942d69aff6342b65409d8/media |
-| ab1_Windows | 1_Windows\" | /image4.png){width="4.126952099737533in" |
-|             |             | height="1.2397167541557306in"}           |
-+-------------+-------------+------------------------------------------+
-| Lab1_       | \"          | ![](vertopal                             |
-| Windows.zip | Z:\\Lab1_Wi | _65073dd2612942d69aff6342b65409d8/media/ |
-|             | ndows.zip\" | image5.png){width="3.8988024934383203in" |
-|             |             | height="1.8541863517060369in"}           |
-+-------------+-------------+------------------------------------------+
+![image](https://github.com/user-attachments/assets/9a34aab9-3584-4b64-94fd-8df269b5c377)
+![image](https://github.com/user-attachments/assets/3463e6a1-68f8-4f99-a61d-c729bf6dce6a)
 
 **3. Data Backup**
 
@@ -187,18 +128,7 @@ Part B. Create a log report structure
 
 **4. Performance Monitoring and System Health Check**
 
-  -----------------------------------------------------------------------
-  **Component**           **Status**              **Remarks/Note**
-  ----------------------- ----------------------- -----------------------
-  Hardware Status         Healthy                 N/A
-
-  Software Status         Healthy                 N/A
-
-  Service Health          Healthy                 N/A
-  -----------------------------------------------------------------------
-
-**\
-**
+![image](https://github.com/user-attachments/assets/be4a94a4-0679-44d9-a986-f2d949f312b8)
 
 **5. Planned Maintenance**
 
