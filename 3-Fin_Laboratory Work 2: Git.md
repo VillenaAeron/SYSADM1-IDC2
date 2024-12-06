@@ -1,9 +1,4 @@
-
-
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: Villena, Aeron Jeff A. | DATE PERFORMED: 11/21/24 |   |
-| Section: IDC2 | DATE SUBMITTED: 11/26/24 |  |
+![image](https://github.com/user-attachments/assets/418fbb1c-5830-4dab-a04a-c06ead3fa925)
 
 1. # SYSADM1 – Git Basics
 
