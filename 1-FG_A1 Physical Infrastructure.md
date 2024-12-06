@@ -1,9 +1,5 @@
 
-
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: Villena, Aeron Jeff A. | DATE PERFORMED: 08/29/24 |   |
-| Section: IDC2 | DATE SUBMITTED: 08/29/24 |  |
+![image](https://github.com/user-attachments/assets/7914f6f9-492d-41ee-9c94-ef380f58e0e3)
 
 1. # SYSADM1 – Physical Infrastructure
 
