@@ -44,5 +44,6 @@ How do you plan to apply what you have learned in this course to your future stu
 
 
 
-**System Administration (SYSADM1)**		INSTRUCTOR: **Mrs. Katherine L.  Reyes**
+**System Administration (SYSADM1)**		
+INSTRUCTOR: **Mrs. Katherine L.  Reyes**
 
